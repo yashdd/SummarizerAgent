@@ -48,14 +48,12 @@ SummarizerAgent/
 │
 └── assets/                    # Screenshots or logos for the README/UI
     └── demo.png
-
----
+```
 
 ## 📄 License
 
 This project is for Learning Purpose only
 
----
 
 ## 👤 Author
 
