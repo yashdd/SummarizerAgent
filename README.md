@@ -48,3 +48,19 @@ SummarizerAgent/
 │
 └── assets/                    # Screenshots or logos for the README/UI
     └── demo.png
+
+---
+
+## 📄 License
+
+This project is for Learning Purpose only
+
+---
+
+## 👤 Author
+
+**Yash Deshpande**  
+📧 yashdd10@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/yash-deshpande-70827417b)  
+🌐 [Portfolio](https://yashdd.github.io/Portfolio-Website)
+
