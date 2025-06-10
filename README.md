@@ -11,7 +11,7 @@ Built with **LangChain**, **OpenAI**, and **Streamlit**, this project brings sma
 - 📝 Get an automatic summary
 - 💬 Ask follow-up questions via chat
 - 🔍 Retrieves accurate context from the paper using embeddings
-- 💾 Saves chat history and summaries
+
 
 ---
 
